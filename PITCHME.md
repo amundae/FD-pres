@@ -12,4 +12,12 @@
 - The site is open to the public from noon to 4:00 PM on the 25th |
 - If you want to operate, sign up with Rick KT7G ahead of time |
 ---?image=BG.jpg
-
+#### FD 2017 Goals
+- Have Fun & Recruit New Hams |
+- Gain Public Attention, have 300 + People visit the site |
+- Educational Events ~ hold 3 seminars |
+- Contact all 50 States |
+- Make 1100 Contacts |
+- Field 60 radio operators during the 24 hour on-the-air operating period |
+- Drink Coffee :) |
+---?image=BG.jpg
