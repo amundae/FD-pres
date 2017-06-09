@@ -196,11 +196,12 @@ Tim Kuhlman KD7RUS<br>
 Rob Haller K7JAO<br>
 Dave Phemister WB7ESV<br>
 Nick Ellson N7CKY<br>
-Gary Takis K7GJT<br></span>
+Gary Takis K7GJT<br>
+Marilyn Melhorn AF7BI<br>
+</span>
 ---?image=BG.jpg
 #### Field Day 2017 Committee
 <span style="font-size:0.5em">
-Marilyn Melhorn AF7BI<br>
 Rick Smith KT7G<br>
 John Allen N9YQ<br>
 Rick Aragon AE7VP<br>
