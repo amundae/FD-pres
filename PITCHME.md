@@ -141,7 +141,7 @@
     <td><span style="font-size:0.6em">11:00 AM</span></td>
     <td><span style="font-size:0.6em">Operations Cease, teardown and cleanup begin</span></td>
   </tr>
-</table>
+  </table>
 ---?image=BG.jpg
 ### Things to Keep in Mind
 <img src="LIGHT.png" alt="light bulb" height="150" width="150"> 
