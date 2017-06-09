@@ -24,7 +24,7 @@
 ---?image=BG.jpg
 ### Schedule
 ---?image=BG.jpg
-### Friday, June 24th
+### Friday, June 23rd
 <table>
   <tr>
     <th><span style="font-size:0.6em">Time</span></th>
@@ -60,4 +60,64 @@
   </tr>
 </table>
 ---?image=BG.jpg
-<span style="font-size:0.6em">Press Down key for details.</span>
+### Saturday, June 24th
+<table>
+  <tr>
+    <th><span style="font-size:0.6em">Time</span></th>
+    <th><span style="font-size:0.6em">Event</span></th> 
+  </tr>
+  <tr>
+    <td><span style="font-size:0.6em">09:00 AM-11:00 PM</span></td>
+    <td><span style="font-size:0.6em">Finalize site setup</span></td> 
+  </tr>
+  <tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">11:00 AM to Midnight</span></td>
+    <td><span style="font-size:0.6em">Field Day Operations active</span></td>
+  </tr>
+    <tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">11:00 AM to 4:00 PM</span></td>
+    <td><span style="font-size:0.6em">GOTA station active</span></td>
+  </tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">Noon to 4:00 PM </span></td>
+    <td><span style="font-size:0.6em">Site open to the public, club and agency booths active</span></td>
+  </tr>
+    <tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em"></span>1:00 PM to 1:50</td>
+    <td><span style="font-size:0.6em">Event</span>Dave WB7ESV "Mobile Installations"</td>
+  </tr>
+    <tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">Time</span>2:00 to 2:50</td>
+    <td><span style="font-size:0.6em">Event</span>Tentative presentation on the 630 meter band</td>
+  </tr>
+    <tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">6:00 PM to 7:30 PM</span></td>
+    <td><span style="font-size:0.6em">Pot Luck</span></td>
+  </tr>
+</table>
+---?image=BG.jpg
+### Sunday, June 25th
+<table>
+  <tr>
+    <th><span style="font-size:0.6em">Time</span></th>
+    <th><span style="font-size:0.6em">Event</span></th> 
+  </tr>
+  <tr>
+    <td><span style="font-size:0.6em">Midnight to 11:00 AM</span></td>
+    <td><span style="font-size:0.6em">Field Day Operations Active</span></td> 
+  </tr>
+    <tr class="fragment">
+    <td><span style="font-size:0.6em">8:00 AM to 9:00 AM</span></td>
+    <td><span style="font-size:0.6em">Pancake Breakfast</span></td>
+  </tr>
+      <tr class="fragment">
+    <td><span style="font-size:0.6em">11:00 AM</span></td>
+    <td><span style="font-size:0.6em">Operations Cease, teardown and cleanup begin</span></td>
+  </tr>
+</table>
+---?image=BG.jpg
