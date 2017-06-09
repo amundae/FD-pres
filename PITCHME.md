@@ -117,7 +117,7 @@
     <th><span style="font-size:0.6em">Time</span></th>
     <th><span style="font-size:0.6em">Event</span></th> 
   </tr>
-   <tr class="fragment">
+   <tr>
     <td><span style="font-size:0.6em">6:00 PM to 7:30 PM</span></td>
     <td><span style="font-size:0.6em">Pot Luck</span></td>
   </tr>
@@ -132,11 +132,11 @@
     <td><span style="font-size:0.6em">Midnight to 11:00 AM</span></td>
     <td><span style="font-size:0.6em">Field Day Operations Active</span></td> 
   </tr>
-  <tr class="fragment">
+  <tr>
     <td><span style="font-size:0.6em">8:00 AM to 9:00 AM</span></td>
     <td><span style="font-size:0.6em">Pancake Breakfast</span></td>
   </tr>
-  <tr class="fragment">
+  <tr>
     <td><span style="font-size:0.6em">11:00 AM</span></td>
     <td><span style="font-size:0.6em">Operations Cease, teardown and cleanup begin</span></td>
   </tr>
@@ -186,25 +186,25 @@ S -- Z Bring a Side Dish<br>
 - Only Park and Camp in designated Areas
 ---?image=BG.jpg
 ### Field Day 2017 Committee
-<span style="font-size:0.6em"> Larry Bloomquist W7HGC 
+<span style="font-size:0.6em"> Larry Bloomquist W7HGC<br>
 Barbara Yasson AC7UH<br>
-Ron Ames N7SRT  
+Ron Ames N7SRT<br>
 Dan Melhorn KF7BHM<br>
-Nicole Crosby N7XBY 
+Nicole Crosby N7XBY<br>
 Tim Kuhlman KD7RUS<br>
-Rob Haller K7JAO  
+Rob Haller K7JAO<br>
 Dave Phemister WB7ESV<br>
-Nick Ellson N7CKY 
+Nick Ellson N7CKY<br>
 Gary Takis K7GJT<br>
-Marilyn Melhorn AF7BI
+Marilyn Melhorn AF7BI<br>
 Rick Smith KT7G<br>
-John Allen N9YQ 
+John Allen N9YQ<br>
 Rick Aragon AE7VP<br>
-Tim McLaren AF7TM 
+Tim McLaren AF7TM<br>
 Tom Barton WB7TZD<br>
-Dave Phemister WB7ESV 
+Dave Phemister WB7ESV<br>
 Dave Cherba WZ8T<br>
-Al Lewey K7ABL  
+Al Lewey K7ABL<br>
 Kirk Kirkpatrick N7BBX <br>
-Bruce Bullis KG6CI  
-Trevor Best KG7VIP
+Bruce Bullis KG6CI<br>
+Trevor Best KG7VIP<br></span>
