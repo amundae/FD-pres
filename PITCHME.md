@@ -23,7 +23,7 @@
 - Drink Coffee :) |
 ---?image=BG.jpg
 ### Schedule
- <img src="Calendar-Icon.png" alt="" > 
+<img src="Calendar-Icon.png" alt="Calendar Icon" height="200" width="200"> 
 ---?image=BG.jpg
 ### Friday, June 23rd
 <table>
@@ -123,8 +123,8 @@
 </table>
 ---?image=BG.jpg
 ### Things to Keep in Mind
-![light](LIGHT.png) 
----?image=BG.jpg
+<img src="LIGHT.png" alt="light bulb" height="150" width="150"> 
+ ---?image=BG.jpg
 - <td><span style="font-size:0.6em">Camping is encouraged, bring your tent or RV and stay all night</span>
 - <td><span style="font-size:0.6em">Folks will be running security through the night, stay up and keep them company, and/or volunteer with Bruce KG6CI yourself</span> |
 - <td><span style="font-size:0.6em">There is no food prep onsite, food for potluck should be brought onsite ready to eat</span> |
@@ -133,4 +133,4 @@
 - <td><span style="font-size:0.6em">Everyone needs to sign in when they come onsite</span> |
 ---?image=BG.jpg
 ### Volunteer
-![person](PERSON.png)
+ <img src="PERSON.PNG" alt="Person Icon" height="42" width="42"> 
