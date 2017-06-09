@@ -21,3 +21,15 @@
 - Field 60 radio operators during the 24 hour on-the-air operating period |
 - Drink Coffee :) |
 ---?image=BG.jpg
+### Schedule
+---?image=BG.jpg
+### Friday, June 24th
+| :--- | :---: |
+| 9:00 AM | Equipment crew meet at FD site |
+| 10:00 AM | Set up volunteers meet at FD site |
+| 10:00 AM thru 7:00 PM | Site setup begins |
+| ~Noon | Lunch from Subway. No other food provided. |
+| 6:00 PM to ? | BYOR, sign up with Rick Aragon, AE7VP |
+| 7:00 PM to 8:00 PM | Ice cream Social |
+| 8:00 PM | Security shifts begin |
+---?image=BG.jpg
