@@ -199,7 +199,7 @@ Nick Ellson N7CKY<br>
 Gary Takis K7GJT<br></span>
 ---?image=BG.jpg
 #### Field Day 2017 Committee
-<span style="font-size:0.6em">
+<span style="font-size:0.5em">
 Marilyn Melhorn AF7BI<br>
 Rick Smith KT7G<br>
 John Allen N9YQ<br>
