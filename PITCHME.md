@@ -122,7 +122,7 @@
     <td><span style="font-size:0.6em">Pot Luck</span></td>
   </tr>
 </table>
-### Sunday, June 25th
+<h3>Sunday, June 25th</h3>
 <table>
   <tr>
     <th><span style="font-size:0.6em">Time</span></th>
