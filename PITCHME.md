@@ -179,7 +179,7 @@ S -- Z Bring a Side Dish<br>
 - Only Park and Camp in designated Areas
 ---?image=BG.jpg
 ### Field Day 2017 Committee
-<span style="font-size:0.6em">Larry Bloomquist W7HGC 
+<span style="font-size:0.6em">Larry Bloomquist W7HGC /|
 Barbara Yasson AC7UH<br>
 Ron Ames N7SRT
 Dan Melhorn KF7BHM<br>
