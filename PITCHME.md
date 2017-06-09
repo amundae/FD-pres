@@ -22,7 +22,7 @@
 - If you want to operate, sign up with Rick KT7G ahead of time |
 ---?image=BG.jpg
 #### Site Layout
-![site](SITE.png)
+<img src="SITE.png"> 
 ---?image=BG.jpg
 #### FD 2017 Goals
 - Have Fun
