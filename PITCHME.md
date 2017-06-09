@@ -185,8 +185,9 @@ S -- Z Bring a Side Dish<br>
 - Clear zone aroud antennas and guy wires
 - Only Park and Camp in designated Areas
 ---?image=BG.jpg
-### Field Day 2017 Committee
-<span style="font-size:0.6em"> Larry Bloomquist W7HGC<br>
+#### Field Day 2017 Committee
+<span style="font-size:0.6em"> 
+Larry Bloomquist W7HGC<br>
 Barbara Yasson AC7UH<br>
 Ron Ames N7SRT<br>
 Dan Melhorn KF7BHM<br>
@@ -195,7 +196,10 @@ Tim Kuhlman KD7RUS<br>
 Rob Haller K7JAO<br>
 Dave Phemister WB7ESV<br>
 Nick Ellson N7CKY<br>
-Gary Takis K7GJT<br>
+Gary Takis K7GJT<br></span>
+---?image=BG.jpg
+#### Field Day 2017 Committee
+<span style="font-size:0.6em">
 Marilyn Melhorn AF7BI<br>
 Rick Smith KT7G<br>
 John Allen N9YQ<br>
