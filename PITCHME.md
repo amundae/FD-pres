@@ -2,6 +2,11 @@
 ## W7AIA Field Day 2017
 ![logo](W7AIA.png)
 ---?image=BG.jpg
+### CCARC 2017 Field Day Overview
+### 2017-06-09
+### Trevor Best KG7VIP
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">CCARC Field Day 2017</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gitpitch.com/amundae/FD-pres" property="cc:attributionName" rel="cc:attributionURL">Trevor Best KG7VIP</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/amundae/FD-pres/" rel="dct:source">https://github.com/amundae/FD-pres/</a>.
+---?image=BG.jpg
 #### Field Day is the premiere event on the radio calendar
 * Every June, more than 40,000 hams throughout North America set up temporary transmitting stations in public places to demonstrate ham radio's science, skill and service to our communities and our nation. It combines public service, emergency preparedness, community outreach, and technical skills all in a single event. -**ARRL** 
 ---?image=BG.jpg
@@ -73,6 +78,11 @@
   </tr>
   <tr>
     <tr class="fragment">
+    <td><span style="font-size:0.6em">10:30 AM to 4:00 PM</span></td>
+    <td><span style="font-size:0.6em">Black Dog Hotdog Cart Onsite</span></td>
+  </tr>
+  <tr>
+    <tr class="fragment">
     <td><span style="font-size:0.6em">11:00 AM to Midnight</span></td>
     <td><span style="font-size:0.6em">Field Day Operations active</span></td>
   </tr>
@@ -125,12 +135,42 @@
 ### Things to Keep in Mind
 <img src="LIGHT.png" alt="light bulb" height="150" width="150"> 
 ---?image=BG.jpg
+### Things to Keep in Mind
 - <td><span style="font-size:0.6em">Camping is encouraged, bring your tent or RV and stay all night</span>
+- <td><span style="font-size:0.6em">No Alcohol or Firearms Onsite</span>
 - <td><span style="font-size:0.6em">Folks will be running security through the night, stay up and keep them company, and/or volunteer with Bruce KG6CI yourself</span> |
 - <td><span style="font-size:0.6em">There is no food prep onsite, food for potluck should be brought onsite ready to eat</span> |
 - <td><span style="font-size:0.6em">Additionally, try to have food setup on the tables by 5:30</span> |
-- <td><span style="font-size:0.6em">Headphones are not provided for the radios, you are encouraged to bring your own, though thet are not essential</span> |
+- <td><span style="font-size:0.6em">Headphones are not provided for the radios, you are encouraged to bring your own, though they are not essential</span> |
 - <td><span style="font-size:0.6em">Everyone needs to sign in when they come onsite</span> |
+---?image=BG.jpg
+### Potluck
+A -- F Bring a Fruit or Veggie Dish
+G -- L Bring a Salad
+M -- R Bring a Dessert
+S -- Z Bring a Side Dish
 ---?image=BG.jpg
 ### Volunteer
 <img src="PERSON.png" alt="Person Icon" height="150" width="150"> 
+---?image=BG.jpg
+### Volunteers are Still Needed in Three Areas
+- Setup on Friday
+- Security, talk to Bruce KG6CI
+- Teardown on Sunday
+---?image=BG.jpg
+### Setup/Teardown Activities
+* Loading trucks at storage unit and unloading trucks at Field Day site
+* Unloading tables and chairs to staging area until time to put up
+* Putting up the food tents
+* Putting up popup tents
+* Putting up lights and wires
+* Runing electrical cords for lighting
+* Putting up chairs and tables where needed
+* Putting up signs
+* Hanging banners
+---?image=BG.jpg
+### Safety
+- Designated Safety Officer is John Allen N9YQ
+- No access to th public in hazard zones
+- Clear zone aroud antennas and guy wires
+- Only Park and Camp in designated Areas
