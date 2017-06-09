@@ -24,12 +24,42 @@
 ### Schedule
 ---?image=BG.jpg
 ### Friday, June 24th
-| :--- | :---: |
-| 9:00 AM | Equipment crew meet at FD site |
-| 10:00 AM | Set up volunteers meet at FD site |
-| 10:00 AM thru 7:00 PM | Site setup begins |
-| ~Noon | Lunch from Subway. No other food provided. |
-| 6:00 PM to ? | BYOR, sign up with Rick Aragon, AE7VP |
-| 7:00 PM to 8:00 PM | Ice cream Social |
-| 8:00 PM | Security shifts begin |
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Event </th> 
+  </tr>
+  <tr>
+    <td>9:00 AM</td>
+    <td>Set up volunteers meet at FD site</td> 
+  </tr>
+  <tr>
+    <td>10:00 AM</td>
+    <td>Equipment crew meet at FD site</td>
+  </tr>
+  <tr class="fragment">
+    <td>10:00 AM thru 7:00 PM </td>
+    <td>Site setup begins</td>
+  </tr>
+  <tr class="fragment">
+    <td>~Noon</td>
+    <td>Lunch from Subway</td>
+  </tr>
+  <tr class="fragment">
+    <td>~Noon</td>
+    <td>Doe</td>
+  </tr>
+  <tr class="fragment">
+    <td>~6:00 PM to ?</td>
+    <td>BYOR, sign up with Rick Aragon, AE7VP</td>
+  </tr>
+  <tr class="fragment">
+    <td>~7:00 PM to 8:00 PM</td>
+    <td>Ice cream Social</td>
+  </tr>
+  <tr class="fragment">
+    <td>~8:00 PM</td>
+    <td>Security shifts begin</td>
+  </tr>
+</table>
 ---?image=BG.jpg
