@@ -124,7 +124,7 @@
 ---?image=BG.jpg
 ### Things to Keep in Mind
 <img src="LIGHT.png" alt="light bulb" height="150" width="150"> 
- ---?image=BG.jpg
+---?image=BG.jpg
 - <td><span style="font-size:0.6em">Camping is encouraged, bring your tent or RV and stay all night</span>
 - <td><span style="font-size:0.6em">Folks will be running security through the night, stay up and keep them company, and/or volunteer with Bruce KG6CI yourself</span> |
 - <td><span style="font-size:0.6em">There is no food prep onsite, food for potluck should be brought onsite ready to eat</span> |
