@@ -148,10 +148,10 @@
 - <td><span style="font-size:0.6em">Everyone needs to sign in when they come onsite</span> |
 ---?image=BG.jpg
 ### Potluck
-A -- F Bring a Fruit or Veggie Dish
-G -- L Bring a Salad
-M -- R Bring a Dessert
-S -- Z Bring a Side Dish
+A -- F Bring a Fruit or Veggie Dish<br>
+G -- L Bring a Salad<br>
+M -- R Bring a Dessert<br>
+S -- Z Bring a Side Dish<br>
 ---?image=BG.jpg
 ### Volunteer
 <img src="PERSON.png" alt="Person Icon" height="150" width="150"> 
@@ -174,6 +174,30 @@ S -- Z Bring a Side Dish
 ---?image=BG.jpg
 ### Safety
 - Designated Safety Officer is John Allen N9YQ
-- No access to th public in hazard zones
+- No public access in hazard zones
 - Clear zone aroud antennas and guy wires
 - Only Park and Camp in designated Areas
+---?image=BG.jpg
+### Field Day 2017 Committee
+<span style="font-size:0.6em">Larry Bloomquist W7HGC 
+Barbara Yasson AC7UH<br>
+Ron Ames N7SRT
+Dan Melhorn KF7BHM<br>
+Nicole Crosby N7XBY
+Tim Kuhlman KD7RUS<br>
+Rob Haller K7JAO
+Dave Phemister WB7ESV<br>
+Nick Ellson N7CKY
+Gary Takis K7GJT<br>
+Marilyn Melhorn AF7BI
+Rick Smith KT7G<br>
+John Allen N9YQ
+Rick Aragon AE7VP<br>
+Tim AF7TM
+Tom Barton WB7TZD<br>
+Dave Phemister WB7ESV
+Dave WZ8T<br>
+Al Lewey K7ABL
+Kirk Kirkpatrick N7BBX <br>
+Bruce Bullis KG6CI
+Trevor Best KG7VIP
