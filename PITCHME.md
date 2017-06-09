@@ -23,6 +23,7 @@
 - Drink Coffee :) |
 ---?image=BG.jpg
 ### Schedule
+![icon](Calendar-Icon.png)
 ---?image=BG.jpg
 ### Friday, June 23rd
 <table>
