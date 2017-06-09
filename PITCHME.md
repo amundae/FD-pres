@@ -24,7 +24,7 @@
 ---?image=BG.jpg
 ### Schedule
  <img src="Calendar-Icon.png" alt="" > 
- ---?image=BG.jpg
+---?image=BG.jpg
 ### Friday, June 23rd
 <table>
   <tr>
