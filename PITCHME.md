@@ -27,40 +27,37 @@
 ### Friday, June 24th
 <table>
   <tr>
-    <th>Time</th>
-    <th>Event </th> 
+    <th><span style="font-size:0.6em">Time</span></th>
+    <th><span style="font-size:0.6em">Event</span></th> 
   </tr>
   <tr>
-    <td>9:00 AM</td>
-    <td>Set up volunteers meet at FD site</td> 
+    <td><span style="font-size:0.6em">9:00 AM</span></td>
+    <td><span style="font-size:0.6em">Set up volunteers meet at FD site</span></td> 
   </tr>
   <tr class="fragment">
-    <td>10:00 AM</td>
-    <td>Equipment crew meet at FD site</td>
+    <td><span style="font-size:0.6em">10:00 AM</span></td>
+    <td><span style="font-size:0.6em">Equipment crew meet at FD site</span></td>
   </tr>
   <tr class="fragment">
-    <td>10:00 AM thru 7:00 PM </td>
-    <td>Site setup begins</td>
+    <td><span style="font-size:0.6em">10:00 AM thru 7:00 PM</span></td>
+    <td><span style="font-size:0.6em">Site setup begins</span></td>
   </tr>
   <tr class="fragment">
-    <td>~Noon</td>
-    <td>Lunch from Subway</td>
+    <td><span style="font-size:0.6em">~Noon</span></td>
+    <td><span style="font-size:0.6em">Lunch from Subway</span></td>
   </tr>
   <tr class="fragment">
-    <td>~Noon</td>
-    <td>Doe</td>
+    <td><span style="font-size:0.6em">6:00 PM to ?</span></td>
+    <td><span style="font-size:0.6em">BYOR, sign up with Rick Aragon, AE7VP</span></td>
   </tr>
   <tr class="fragment">
-    <td>~6:00 PM to ?</td>
-    <td>BYOR, sign up with Rick Aragon, AE7VP</td>
-  </tr>
-  <tr class="fragment">
-    <td>~7:00 PM to 8:00 PM</td>
+    <td><span style="font-size:0.6em">7:00 PM to 8:00 PM</span></td>
     <td>Ice cream Social</td>
   </tr>
   <tr class="fragment">
-    <td>~8:00 PM</td>
-    <td>Security shifts begin</td>
+    <td><span style="font-size:0.6em">8:00 PM</span></td>
+    <td><span style="font-size:0.6em">Security shifts begin</span></td>
   </tr>
 </table>
 ---?image=BG.jpg
+<span style="font-size:0.6em">Press Down key for details.</span>
