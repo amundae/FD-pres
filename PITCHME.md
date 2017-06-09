@@ -110,7 +110,7 @@
   </tr>
 </table>
 ---?image=BG.jpg
- ### Saturday, June 24th Continued
+### Saturday, June 24th Continued
 <table>
   <tr>
     <th><span style="font-size:0.6em">Time</span></th>
