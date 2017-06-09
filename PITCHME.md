@@ -13,7 +13,8 @@
 - If you want to operate, sign up with Rick KT7G ahead of time |
 ---?image=BG.jpg
 #### FD 2017 Goals
-- Have Fun & Recruit New Hams |
+- Have Fun
+- Recruit New Hams |
 - Gain Public Attention, have 300 + People visit the site |
 - Educational Events ~ hold 3 seminars |
 - Contact all 50 States |
@@ -33,7 +34,7 @@
     <td>9:00 AM</td>
     <td>Set up volunteers meet at FD site</td> 
   </tr>
-  <tr>
+  <tr class="fragment">
     <td>10:00 AM</td>
     <td>Equipment crew meet at FD site</td>
   </tr>
