@@ -108,13 +108,20 @@
     <td><span style="font-size:0.6em">2:00 to 2:50</span></td>
     <td><span style="font-size:0.6em">Tentative presentation on the 630 meter band</span></td>
   </tr>
-    <tr>
+</table>
+---?image=BG.jpg
+ ### Saturday, June 24th Continued
+<table>
+  <tr>
+    <th><span style="font-size:0.6em">Time</span></th>
+    <th><span style="font-size:0.6em">Event</span></th> 
+  </tr>
+ <tr>
     <tr class="fragment">
     <td><span style="font-size:0.6em">6:00 PM to 7:30 PM</span></td>
     <td><span style="font-size:0.6em">Pot Luck</span></td>
   </tr>
 </table>
----?image=BG.jpg
 ### Sunday, June 25th
 <table>
   <tr>
@@ -179,25 +186,25 @@ S -- Z Bring a Side Dish<br>
 - Only Park and Camp in designated Areas
 ---?image=BG.jpg
 ### Field Day 2017 Committee
-<span style="font-size:0.6em">Larry Bloomquist W7HGC /|
+<span style="font-size:0.6em"> Larry Bloomquist W7HGC 
 Barbara Yasson AC7UH<br>
-Ron Ames N7SRT
+Ron Ames N7SRT  
 Dan Melhorn KF7BHM<br>
-Nicole Crosby N7XBY
+Nicole Crosby N7XBY 
 Tim Kuhlman KD7RUS<br>
-Rob Haller K7JAO
+Rob Haller K7JAO  
 Dave Phemister WB7ESV<br>
-Nick Ellson N7CKY
+Nick Ellson N7CKY 
 Gary Takis K7GJT<br>
 Marilyn Melhorn AF7BI
 Rick Smith KT7G<br>
-John Allen N9YQ
+John Allen N9YQ 
 Rick Aragon AE7VP<br>
-Tim AF7TM
+Tim McLaren AF7TM 
 Tom Barton WB7TZD<br>
-Dave Phemister WB7ESV
-Dave WZ8T<br>
-Al Lewey K7ABL
+Dave Phemister WB7ESV 
+Dave Cherba WZ8T<br>
+Al Lewey K7ABL  
 Kirk Kirkpatrick N7BBX <br>
-Bruce Bullis KG6CI
+Bruce Bullis KG6CI  
 Trevor Best KG7VIP
