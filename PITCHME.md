@@ -41,11 +41,11 @@
   </tr>
   <tr>
     <td><span style="font-size:0.6em">9:00 AM</span></td>
-    <td><span style="font-size:0.6em">Set up volunteers meet at FD site</span></td> 
+    <td><span style="font-size:0.6em">Equipment crew meet at FD site</span></td> 
   </tr>
   <tr class="fragment">
     <td><span style="font-size:0.6em">10:00 AM</span></td>
-    <td><span style="font-size:0.6em">Equipment crew meet at FD site</span></td>
+    <td><span style="font-size:0.6em">Set up volunteers meet at FD site</span></td>
   </tr>
   <tr class="fragment">
     <td><span style="font-size:0.6em">10:00 AM thru 7:00 PM</span></td>
