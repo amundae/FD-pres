@@ -1,6 +1,6 @@
 ---?image=BG.jpg
 ## W7AIA Field Day 2017
-![logo](W7AIA.png)
+<img src="W7AIA.png" alt="Calendar Icon" height="400" width="400"> 
 ---?image=BG.jpg
 ### CCARC 2017 Field Day Overview
 ### 2017-06-09
