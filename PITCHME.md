@@ -86,13 +86,13 @@
   </tr>
     <tr>
     <tr class="fragment">
-    <td><span style="font-size:0.6em"></span>1:00 PM to 1:50</td>
-    <td><span style="font-size:0.6em">Event</span>Dave WB7ESV "Mobile Installations"</td>
+    <td><span style="font-size:0.6em">1:00 PM to 1:50</span></td>
+    <td><span style="font-size:0.6em">Dave WB7ESV "Mobile Installations"</span></td>
   </tr>
     <tr>
     <tr class="fragment">
-    <td><span style="font-size:0.6em">Time</span>2:00 to 2:50</td>
-    <td><span style="font-size:0.6em">Event</span>Tentative presentation on the 630 meter band</td>
+    <td><span style="font-size:0.6em">2:00 to 2:50</span></td>
+    <td><span style="font-size:0.6em">Tentative presentation on the 630 meter band</span></td>
   </tr>
     <tr>
     <tr class="fragment">
