@@ -117,8 +117,7 @@
     <th><span style="font-size:0.6em">Time</span></th>
     <th><span style="font-size:0.6em">Event</span></th> 
   </tr>
- <tr>
-    <tr class="fragment">
+   <tr class="fragment">
     <td><span style="font-size:0.6em">6:00 PM to 7:30 PM</span></td>
     <td><span style="font-size:0.6em">Pot Luck</span></td>
   </tr>
@@ -133,11 +132,11 @@
     <td><span style="font-size:0.6em">Midnight to 11:00 AM</span></td>
     <td><span style="font-size:0.6em">Field Day Operations Active</span></td> 
   </tr>
-    <tr class="fragment">
+  <tr class="fragment">
     <td><span style="font-size:0.6em">8:00 AM to 9:00 AM</span></td>
     <td><span style="font-size:0.6em">Pancake Breakfast</span></td>
   </tr>
-      <tr class="fragment">
+  <tr class="fragment">
     <td><span style="font-size:0.6em">11:00 AM</span></td>
     <td><span style="font-size:0.6em">Operations Cease, teardown and cleanup begin</span></td>
   </tr>
