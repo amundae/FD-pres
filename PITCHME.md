@@ -21,7 +21,7 @@
 - The site is open to the public from noon to 4:00 PM on the 25th |
 - If you want to operate, sign up with Rick KT7G ahead of time |
 ---?image=BG.jpg
-[site](SITE.pdf)
+![site](SITE.pdf)
 ---?image=BG.jpg
 #### FD 2017 Goals
 - Have Fun
