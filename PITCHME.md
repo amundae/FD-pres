@@ -133,4 +133,4 @@
 - <td><span style="font-size:0.6em">Everyone needs to sign in when they come onsite</span> |
 ---?image=BG.jpg
 ### Volunteer
- <img src="PERSON.PNG" alt="Person Icon" height="42" width="42"> 
+<img src="PERSON.png" alt="Person Icon" height="150" width="150"> 
