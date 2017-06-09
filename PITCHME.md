@@ -52,7 +52,7 @@
   </tr>
   <tr class="fragment">
     <td><span style="font-size:0.6em">7:00 PM to 8:00 PM</span></td>
-    <td>Ice cream Social</td>
+    <td><span style="font-size:0.6em">Ice cream Social</span></td>
   </tr>
   <tr class="fragment">
     <td><span style="font-size:0.6em">8:00 PM</span></td>
