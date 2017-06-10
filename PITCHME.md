@@ -149,13 +149,13 @@
 <img src="LIGHT.png" alt="light bulb" height="150" width="150"> 
 ---?image=BG.jpg
 ### Things to Keep in Mind
-- <td><span style="font-size:0.6em">Camping is encouraged, bring your tent or RV and stay all night</span>
-- <td><span style="font-size:0.6em">No Alcohol or Firearms Onsite</span> |
-- <td><span style="font-size:0.6em">Folks will be running security through the night, stay up and keep them company, and/or volunteer with Bruce KG6CI yourself</span> |
-- <td><span style="font-size:0.6em">There is no food prep onsite, food for potluck should be brought onsite ready to eat</span> |
-- <td><span style="font-size:0.6em">Additionally, try to have food setup on the tables by 5:30</span> |
-- <td><span style="font-size:0.6em">Headphones are not provided for the radios, you are encouraged to bring your own, though they are not essential</span> |
-- <td><span style="font-size:0.6em">Everyone needs to sign in when they come onsite</span> |
+- Camping is encouraged, bring your tent or RV and stay all night
+- No Alcohol or Firearms Onsite |
+- Folks will be running security through the night, stay up and keep them company, and/or volunteer with Bruce KG6CI yourself |
+- There is no food prep onsite, food for potluck should be brought onsite ready to eat |
+- Additionally, try to have food setup on the tables by 5:30 |
+- Headphones are not provided for the radios, you are encouraged to bring your own, though they are not essential |
+- Everyone needs to sign in when they come onsite |
 ---?image=BG.jpg
 ### Potluck
 A -- F Bring a Fruit or Veggie Dish<br>
