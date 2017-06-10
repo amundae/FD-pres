@@ -16,7 +16,7 @@
 ---?image=BG.jpg
 #### Quick Facts
 - Our FD Operations (radios on to radios off) run from 11:00 AM to Saturday the 24th to 11:00 AM Sunday the 25th
-- Anyone, including inactive hams can operate the GOTA station |
+- Inactive, new, or non hams can operate the GOTA station |
 - You can participate at as many FD sites as you wish, as long as you don't make a QSO between them |
 - The site is open to the public from noon to 4:00 PM on the 25th |
 - If you want to operate, sign up with Rick KT7G ahead of time |
